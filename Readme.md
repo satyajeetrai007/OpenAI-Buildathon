@@ -1,5 +1,5 @@
 ## Demo Video
-
-[![Watch the demo](https://user-images.githubusercontent.com/USER/REPO/thumbnail.png)](https://res.cloudinary.com/dvropresk/video/upload/v1757961476/Screen_Recording_2025-09-15_234358_e01tkx.mp4)
+https://github.com/user-attachments/assets/f263a607-151c-40a1-9aca-c4ee5fdebeeb
 
 > Click the image to watch the demo.
+
